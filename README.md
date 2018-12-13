@@ -1,6 +1,6 @@
 # Create a Customer Segmentation Report for Arvato Financial Solutions
 
-There is a blog post for this project hosted in [Medium](
+There is a blog post for this project hosted in [Medium](https://medium.com/@lawrence.sumera/creating-a-customer-segmentation-report-for-arvato-financial-solutions-fda19be519f).
 
 ## Table of Contents:
 
@@ -22,7 +22,7 @@ This challenge was provided by Arvato Financial Solutions for the Udacity Data S
 
 There were three major steps in the project:
 
-1. **Customer Segmentation Report** - This analyzed demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. This used unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core 
+1. **Customer Segmentation Report** - This analyzed demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. This used unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core
 customer base of the company. 
 
 2. **Supervised Learning Model** -This used the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
@@ -50,6 +50,3 @@ There were four data files provided by Arvato for this project. The last file wa
 2. There are two spreadsheets provided in the workspace. `DIAS Information Levels - Attributes 2017.xlsx` is a top-level list of attributes and descriptions, organized by informational category. The other `DIAS Attributes - Values 2017.xlsx` is a detailed mapping of data values for each feature in alphabetical order.
 
 3. The Jupyter notebook produced a file called `submissions.csv` which was submitted to Kaggle for the in-class [competition](https://www.kaggle.com/c/udacity-arvato-identify-customers).
-
-
-
